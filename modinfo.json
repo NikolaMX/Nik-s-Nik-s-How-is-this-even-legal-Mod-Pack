@@ -11,7 +11,7 @@
     "forum": "https://forums.planetaryannihilation.com/threads/rel-niks-how-is-this-even-legal-mod-pack.73606/",
     "icon": "https://i.pinimg.com/originals/98/c4/f8/98c4f84d5417fb7114b19e7396c9bca4.gif",
     "priority": 105,
-    "github": "https://github.com/NikolaMX/Nik-s-Nik-s-How-is-this-even-legal-Mod-Pack/archive/master.zip",
+    "github": "https://github.com/NikolaMX/Nik-s-Nik-s-How-is-this-even-legal-Mod-Pack",
     "url": "https://github.com/NikolaMX/Nik-s-Nik-s-How-is-this-even-legal-Mod-Pack/archive/master.zip",
     "download": "https://github.com/NikolaMX/Nik-s-Nik-s-How-is-this-even-legal-Mod-Pack/archive/master.zip",
     "unitList": false,
@@ -19,6 +19,15 @@
     "dependencies": [
         "com.pa.romans.highcontrast-econbar.zip"
   ],
+    "category": [
+        "ui",
+        "titans",
+        "effects",
+        "gameplay",
+        "icons",
+        "shaders",
+        "textures"
+],
     "searchable": [
         "effects",
         "stuff",
@@ -34,9 +43,9 @@
     "framework": false,
     "available": true,
     "enabled": true,
-    "titansOnly": false,
+    "titansOnly": true,
     "classicOnly": false,
     "classic": false,
-    "titans": false,
+    "titans": true,
     "conflicts": {}
 }
