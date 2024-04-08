@@ -1,7 +1,7 @@
 {
     "context": "client",
     "identifier": "ca.pa.metapod.effectsandstuffNikVersion",
-    "display_name": "Nik's barely Legal Mod Pack",
+    "display_name": "Nik's 'How is this even legal?!' Mod Pack",
     "description": "Adds AA and AoE effects, optimizes air and combat fab selection, improves on PewPew, improves wreckage visibility and water transparency, and much much more",
     "author": "NikolaMX, Metapod, dom",
     "version": "12.2.0",
