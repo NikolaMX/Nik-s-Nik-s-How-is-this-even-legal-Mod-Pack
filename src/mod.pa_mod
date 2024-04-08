@@ -1,0 +1,22 @@
+{
+    "options" : {
+        "debug_mode" : false,
+        "output_dir" : "..",
+        "pretty_print_effects" : true,
+        "indent" : 2
+    },
+    "modinfo" : {
+        "context" : "client",
+        "identifier" : "com.pa.domdom.inferno.blue_flame",
+        "display_name" : "Blue Inferno Flame",
+        "description" : "Makes the inferno flame blue instead of red.",
+        "author" : "dom314",
+        "forum" : "https://forums.uberent.com/threads/wip-client-more-pew-pew-requesting-opinions.69025/",
+        "icon" : "http://i.imgur.com/OSNs7xd.png",
+        "version" : "0.1.0",
+        "priority": 99
+    },
+    "mod" : [
+        {"from_script" : "/inferno.py"}
+    ]
+}

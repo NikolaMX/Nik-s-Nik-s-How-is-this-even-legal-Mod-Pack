@@ -1,0 +1,42 @@
+{
+    "context": "client",
+    "identifier": "ca.pa.metapod.effectsandstuffNikVersion",
+    "display_name": "Nik's barely Legal Mod Pack",
+    "description": "Adds AA and AoE effects, optimizes air and combat fab selection, improves on PewPew, improves wreckage visibility and water transparency, and much much more",
+    "author": "NikolaMX, Metapod, dom",
+    "version": "12.2.0",
+    "build": "120464",
+    "date": "2024-04-08",
+    "signature": "not yet implemented",
+    "forum": "https://forums.planetaryannihilation.com/threads/rel-niks-barely-legal-mod-pack.73606/",
+    "icon": "https://i.pinimg.com/originals/98/c4/f8/98c4f84d5417fb7114b19e7396c9bca4.gif",
+    "priority": 105,
+    "github": "https://github.com/NikolaMX/Nik-s-barely-Legal-Mod-Pack/archive/master.zip",
+    "url": "https://github.com/NikolaMX/Nik-s-barely-Legal-Mod-Pack/archive/master.zip",
+    "download": "https://cdn.palobby.com/community-mods/downloads/ca.pa.metapod.effectsandstuff.zip",
+    "unitList": false,
+    "fileSystem": false,
+    "dependencies": [
+        "com.pa.romans.highcontrast-econbar.zip"
+  ],
+    "searchable": [
+        "effects",
+        "stuff",
+        "metapod"
+    ],
+    "sort": "Nik, NikolaMX, Cheat, Pack",
+    "authors": [
+        "Nik, medtapod"
+    ],
+    "timestamp": 1539734400000,
+    "companions": [],
+    "scenes": {},
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "classic": false,
+    "titans": false,
+    "conflicts": {}
+}
