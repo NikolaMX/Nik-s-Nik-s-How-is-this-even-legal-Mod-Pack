@@ -1,0 +1,33 @@
+{
+  "base_spec": "/pa/ammo/base_shell/base_shell.json",
+  "damage": 350,
+  "splash_damage": 0,
+  "splash_radius": 0,
+  "full_damage_splash_radius": 0,
+  "splash_damages_allies": false,
+  "initial_velocity": 600.0,
+  "max_velocity": 600.0,
+  "lifetime": 0.75,
+  "events": {
+    "died": {
+      "audio_cue": "/SE/Impacts/shell_bullet",
+      "effect_spec": "/pa/units/land/bot_sniper/bot_sniper_ammo_hit.pfx"
+    }
+  },
+  "fx_trail": {
+    "offset": [
+      0.0,
+      0.8,
+      0.0
+    ],
+    "filename": "/pa/units/land/bot_sniper/bot_sniper_ammo_trail.pfx"
+  },
+  "physics": {
+    "radius": 1,
+    "gravity_scalar": 120,
+    "add_to_spatial_db": false,
+    "allow_underground": true
+  },
+  "fx_beam_spec": "/pa/units/land/bot_sniper/bot_sniper_ammo_trail.pfx",
+  "fx_collision_spec": "/pa/units/land/bot_sniper/bot_sniper_ammo_hit.pfx"
+}
