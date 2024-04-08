@@ -1,0 +1,20 @@
+{
+  "base_spec": "/pa/units/commanders/base_commander/base_commander_ammo.json",
+  "model": {
+    "filename": "/pa/units/air/missile/missile.papa",
+    "arrows": 3
+  },
+  "fx_trail": {
+    "filename": "/pa/units/commanders/base_commander/base_commander_ammo_missile_trail.pfx"
+  },
+  "events": {
+    "died": {
+      "audio_cue": "/SE/Impacts/missile_tactical",
+      "effect_specs": "/pa/effects/specs/default_proj_explosion.pfx",
+      "effect_spec": "/pa/units/commanders/base_commander/base_commander_bullet_hit.pfx"
+    },
+    "spawned": {
+      "audio_cue": "/SE/Weapons/commander/Commander_gun_fire_missile"
+    }
+  }
+}

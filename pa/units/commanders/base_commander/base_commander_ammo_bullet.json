@@ -1,0 +1,19 @@
+{
+  "base_spec": "/pa/units/commanders/base_commander/base_commander_ammo.json",
+  "events": {
+    "spawned": {
+      "audio_cue": "/SE/Weapons/commander/Commander_gun_fire"
+    },
+    "died": {
+      "effect_spec": "/pa/units/commanders/base_commander/base_commander_bullet_hit.pfx"
+    }
+  },
+  "fx_trail": {
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "filename": "/pa/units/commanders/base_commander/base_commander_ammo_bullet_trail.pfx"
+  }
+}
