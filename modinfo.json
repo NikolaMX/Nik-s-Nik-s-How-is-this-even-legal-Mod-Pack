@@ -16,9 +16,7 @@
     "download": "https://github.com/NikolaMX/Nik-s-Nik-s-How-is-this-even-legal-Mod-Pack/archive/master.zip",
     "unitList": false,
     "fileSystem": false,
-    "dependencies": [
-        "com.pa.romans.highcontrast-econbar.zip"
-  ],
+    "dependencies": [],
     "category": [
         "ui",
         "titans",
