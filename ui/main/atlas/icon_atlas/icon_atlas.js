@@ -133,6 +133,7 @@ $(document).ready(function () {
             'strafer',
             'commander_pumpkin',
             'commander_unicorn',
+            'commander_beast_king',
             'bot_aa',
             'radar_jammer'
         ]);
