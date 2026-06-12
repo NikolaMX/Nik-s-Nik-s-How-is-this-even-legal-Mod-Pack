@@ -3,8 +3,8 @@
     "unit_name": "Fabrication Aircraft",
     "display_name": "!LOC:Fabrication Aircraft",
     "description": "!LOC:Basic Fabricator - Build basic structures.",
-    "max_health": 25,
-    "build_metal_cost": 200,
+    "max_health": 100,
+    "build_metal_cost": 225,
     "attachable": {
         "offsets": {
             "root": [

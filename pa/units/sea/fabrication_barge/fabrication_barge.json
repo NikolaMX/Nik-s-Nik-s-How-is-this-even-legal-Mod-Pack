@@ -47,7 +47,7 @@
         "type": "water-hover",
         "acceleration": 100,
         "brake": 100,
-        "move_speed": 12,
+        "move_speed": 14,
         "turn_speed": 90,
         "turn_accel": 45,
         "park_stamp_type": "sphere",
